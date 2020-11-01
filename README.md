@@ -1,4 +1,5 @@
 # TradeGoodDollar
+0. Click on the grey button corresponding to your wallet provider. MetaMask is part of Injected.
 1. Fill how many cDAI you want to spend, and the minimum of G$ you expect to receive. You can base your expectation on Uniswap price.
 2. Click on UNLOCK button and accept the approval request. Wait for the status of Pending TX at the top to be Unlocked.
 3. Click on BUY button, if it doesn't propose a transaction then it's because it is detecting it would fail so lower you minimum of G$ expected and retry.
